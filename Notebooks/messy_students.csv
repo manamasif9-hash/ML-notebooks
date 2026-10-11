@@ -1,0 +1,6 @@
+Name,Subject,Score,Age,City,Marks,Passed,Grade,Age_in_5_years,City_uppercase
+Ayesha,chem,90,20,Lahore,85,True,B,25,LAHORE
+Ali,bio,85,22,Karachi,90,True,A,27,KARACHI
+Adil,eng,75,21,Faisalabad,78,False,C,26,FAISALABAD
+Daniyal,comp,78,23,Islamabad,92,True,A,28,ISLAMABAD
+Asad,physics,65,20,Multan,88,True,B,25,MULTAN
